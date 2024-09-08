@@ -7,14 +7,15 @@ My Profile - WPF Desktop Application
 ## How to Install
 1. Clone or Download the Repository
 Clone this repository to your local machine using Git, or download the project zip file and extract it to a folder on your computer.
+https://github.com/Ebukanka/My-Profile-App-C-.NET.git.
 
-2. Open in Visual Studio
+3. Open in Visual Studio
 Open the solution file (MyProfile.sln) in Visual Studio 2022 or higher.
 
-3. Install .NET SDK
+4. Install .NET SDK
 Ensure that the .NET 6.0 SDK or higher is installed on your system. You can download it from Microsoft .NET Downloads.
 
-4. Install Dependencies
+5. Install Dependencies
 The project uses NuGet packages. Visual Studio will prompt you to restore the NuGet packages. Click on "Restore" or run the following command in the Package Manager Console:
 
 
