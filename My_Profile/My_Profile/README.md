@@ -7,7 +7,7 @@ My Profile - WPF Desktop Application
 ## How to Install
 1. Clone or Download the Repository
 Clone this repository to your local machine using Git, or download the project zip file and extract it to a folder on your computer.
-git clone https://github.com/your-repository/MyProfile.git
+
 
 2. Open in Visual Studio
 Open the solution file (MyProfile.sln) in Visual Studio 2022 or higher.
