@@ -1,0 +1,57 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+    xmlns:wfi="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+    x:Class="My_Profile.ProfilePage"
+    Title="Profile Page">
+
+    <Grid Background="red">
+        <!-- YouTube Logo at the top -->
+        <Image Source="/youtube.jpg"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Bottom"
+               Width="173"
+               Height="168"
+               Margin="62,0,0,995" RenderTransformOrigin="0.5,0.5" Opacity="0.5">
+            <Image.Effect>
+                <BlurEffect/>
+            </Image.Effect>
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.6"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="1000">
+            <Label Content="Search YouTube:" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" HorizontalAlignment="Center"/>
+
+            <TextBox x:Name="SearchTextBox" Width="400" Height="40" Margin="0,0,0,10" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="10"/>
+
+            <Button Content="Search" Width="100" Height="40" Click="OnSearchButtonClick" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+
+            <!-- ListBox to display search results -->
+            <ListBox x:Name="ResultsListBox" Width="800" Height="600" SelectionChanged="OnVideoSelected" HorizontalAlignment="Center" Margin="0,0,0,20">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="LightGray" BorderThickness="1" Margin="0,10,0,0" Background="#FFEBEB" CornerRadius="8" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <Grid Width="640" Height="360">
+                                <Image Source="{Binding ThumbnailUrl}" Stretch="Fill" Width="640" Height="360"/>
+                                <Button Content="Play" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Background="#FF0000" Foreground="White" Click="OnPlayButtonClick" Opacity="0.8" BorderBrush="Transparent"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <!-- Video player area using WindowsFormsHost and WebBrowser -->
+            <wfi:WindowsFormsHost HorizontalAlignment="Center" VerticalAlignment="Center" Width="640" Height="360">
+                <wf:WebBrowser x:Name="VideoPlayer" />
+            </wfi:WindowsFormsHost>
+        </StackPanel>
+    </Grid>
+</Page>

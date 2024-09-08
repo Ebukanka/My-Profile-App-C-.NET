@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\dd012a6b-21a1-4bd1-b6be-4fd240c37686_My_Profile.zip.686\\My_Profile\\My_Profile\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|c:\\users\\user\\desktop\\my_profile\\my_profile\\my_profile\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|c:\\users\\user\\desktop\\my_profile\\my_profile\\my_profile\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\ff27a78b-7ca8-4628-939c-424e6c3e7ee0_My_Profile.zip.ee0\\My_Profile\\My_Profile\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|c:\\users\\user\\desktop\\my_profile\\my_profile\\my_profile\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\notificationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\notificationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\resources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\resources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\notificationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\notificationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\btnas\\AppData\\Local\\Temp\\.vsdbgsrc\\539a040945325fdf03120b847741731ac128d3539c93e01b7ff4db05c685126c\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\my_profile\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A746E4-60F0-4969-99DA-91B26596860C}|My_Profile\\My_Profile.csproj|solutionrelative:my_profile\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\btnas\\source\\repos\\My_Profile\\My_Profile\\obj\\Debug\\ProfilePage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\MainWindow.xaml",
+              "RelativeToolTip": "My_Profile\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T20:34:32.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\ff27a78b-7ca8-4628-939c-424e6c3e7ee0_My_Profile.zip.ee0\\My_Profile\\My_Profile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\ff27a78b-7ca8-4628-939c-424e6c3e7ee0_My_Profile.zip.ee0\\My_Profile\\My_Profile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\ff27a78b-7ca8-4628-939c-424e6c3e7ee0_My_Profile.zip.ee0\\My_Profile\\My_Profile\\App.xaml.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\ff27a78b-7ca8-4628-939c-424e6c3e7ee0_My_Profile.zip.ee0\\My_Profile\\My_Profile\\App.xaml.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:45:05.359Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\dd012a6b-21a1-4bd1-b6be-4fd240c37686_My_Profile.zip.686\\My_Profile\\My_Profile\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\dd012a6b-21a1-4bd1-b6be-4fd240c37686_My_Profile.zip.686\\My_Profile\\My_Profile\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\dd012a6b-21a1-4bd1-b6be-4fd240c37686_My_Profile.zip.686\\My_Profile\\My_Profile\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\dd012a6b-21a1-4bd1-b6be-4fd240c37686_My_Profile.zip.686\\My_Profile\\My_Profile\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:44:00.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\packages.config",
+              "RelativeDocumentMoniker": "My_Profile\\packages.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\packages.config",
+              "RelativeToolTip": "My_Profile\\packages.config",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-08T03:37:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\App.config",
+              "RelativeDocumentMoniker": "My_Profile\\App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\App.config",
+              "RelativeToolTip": "My_Profile\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-08T03:34:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\SignUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "My_Profile\\SignUpPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:27:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\HomePage.xaml.cs",
+              "RelativeToolTip": "My_Profile\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:00:18.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\HomePage.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\HomePage.xaml",
+              "RelativeToolTip": "My_Profile\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T21:31:44.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalendarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\CalendarPage.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\CalendarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\CalendarPage.xaml.cs",
+              "RelativeToolTip": "My_Profile\\CalendarPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:37:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\App.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\App.xaml",
+              "RelativeToolTip": "My_Profile\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T21:39:24.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignInPage.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\SignInPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignInPage.xaml",
+              "RelativeToolTip": "My_Profile\\SignInPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T21:07:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalendarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\CalendarPage.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\CalendarPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\CalendarPage.xaml",
+              "RelativeToolTip": "My_Profile\\CalendarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T21:32:03.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\MainWindow.xaml.cs",
+              "RelativeToolTip": "My_Profile\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:34:32.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\NotificationsWindow.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\NotificationsWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\NotificationsWindow.xaml",
+              "RelativeToolTip": "My_Profile\\NotificationsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T01:24:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "My_Profile\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:37:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\ProfilePage.xaml",
+              "RelativeToolTip": "My_Profile\\ProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T21:32:19.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignUpPage.xaml",
+              "RelativeToolTip": "My_Profile\\SignUpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T22:24:27.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\NotificationsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\NotificationsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\NotificationsWindow.xaml.cs",
+              "RelativeToolTip": "My_Profile\\NotificationsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:24:48.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\Resources.xaml",
+              "RelativeDocumentMoniker": "My_Profile\\Resources.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\Resources.xaml",
+              "RelativeToolTip": "My_Profile\\Resources.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T01:34:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\btnas\\AppData\\Local\\Temp\\.vsdbgsrc\\539a040945325fdf03120b847741731ac128d3539c93e01b7ff4db05c685126c\\NavigationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\btnas\\AppData\\Local\\Temp\\.vsdbgsrc\\539a040945325fdf03120b847741731ac128d3539c93e01b7ff4db05c685126c\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\btnas\\AppData\\Local\\Temp\\.vsdbgsrc\\539a040945325fdf03120b847741731ac128d3539c93e01b7ff4db05c685126c\\NavigationService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\btnas\\AppData\\Local\\Temp\\.vsdbgsrc\\539a040945325fdf03120b847741731ac128d3539c93e01b7ff4db05c685126c\\NavigationService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:33:34.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignInPage.xaml.cs",
+              "RelativeDocumentMoniker": "My_Profile\\SignInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\SignInPage.xaml.cs",
+              "RelativeToolTip": "My_Profile\\SignInPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:08:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "My_Profile\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\My_Profile\\My_Profile\\My_Profile\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "My_Profile\\Properties\\Resources.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:01:24.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfilePage.g.cs",
+              "DocumentMoniker": "C:\\Users\\btnas\\source\\repos\\My_Profile\\My_Profile\\obj\\Debug\\ProfilePage.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\btnas\\source\\repos\\My_Profile\\My_Profile\\obj\\Debug\\ProfilePage.g.cs",
+              "ToolTip": "C:\\Users\\btnas\\source\\repos\\My_Profile\\My_Profile\\obj\\Debug\\ProfilePage.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\btnas\\source\\repos\\My_Profile\\My_Profile\\obj\\Debug\\ProfilePage.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:46:43.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

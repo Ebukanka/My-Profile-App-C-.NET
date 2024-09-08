@@ -1,0 +1,48 @@
+﻿<Window x:Class="My_Profile.NotificationsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Notifications" Height="600" Width="400">
+    <Window.Resources>
+        <!-- Define the style for notification items here -->
+        <Style x:Key="NotificationStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FAFAD2">
+        <StackPanel>
+            <TextBlock Text="All Notifications" FontSize="20" FontWeight="Bold" Margin="10" HorizontalAlignment="Center"/>
+            <!-- Wrap the notifications in a ScrollViewer to enable scrolling -->
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Margin="10" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <StackPanel>
+                    <!-- Example notifications -->
+                    <TextBlock Text="You have a new follower on Facebook!" Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Someone liked your Instagram photo!" Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="5 new connections on LinkedIn." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="10 new subscribers on YouTube!" Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Your friend commented on your post." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="New message from LinkedIn." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Your video reached 1000 views!" Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="5 new likes on your photo." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="You have a new friend request." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="2 new followers on Instagram." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Your YouTube channel has been featured." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Someone shared your LinkedIn post." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="You received a new comment on YouTube." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="New follow request from Twitter." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Your LinkedIn profile was viewed." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Someone liked your comment on Instagram." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Your Facebook post was shared." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="New message from YouTube channel." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Your video got 50 new likes." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="Someone followed you on LinkedIn." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="You have 3 new comments on Instagram." Style="{StaticResource NotificationStyle}"/>
+                    <TextBlock Text="You gained 100 new YouTube subscribers." Style="{StaticResource NotificationStyle}"/>
+                </StackPanel>
+            </ScrollViewer>
+            <Button Content="Close" Width="100" Height="30" HorizontalAlignment="Center" Margin="10" Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
